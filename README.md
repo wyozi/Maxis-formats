@@ -2,6 +2,8 @@
 
 Documentation about some Maxis games data files (SimCity 2000, SimCopter) collected to one place for ease of access and readability.
 
+See also https://github.com/dfloer/SC2k-docs
+
 ### Credits
 
 #### hornpipe2 / Greg Kennedy
